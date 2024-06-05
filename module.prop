@@ -1,0 +1,6 @@
+id=CacheCleaner
+name=Cache Cleaner
+version=v1.0
+versionCode=100
+author=Rompelhd 🥵
+description=CacheCleaner is an easy-to-use module for managing your Android device's app cache. It runs automatically when the cache exceeds a set threshold and can be triggered manually with 'su -c cleaner' in the terminal, keeping your device optimized and free of unnecessary cache files.
